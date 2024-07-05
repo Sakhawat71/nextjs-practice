@@ -22,6 +22,12 @@ const HomePage = () => {
                     <li>
                         <Link href="/contact">Contact</Link>
                     </li>
+                    <li>
+                        <Link href="/products">Products</Link>
+                    </li>
+                    <li>
+                        <Link href="/contactus">Contact Us</Link>
+                    </li>
 
 
                 </ul>

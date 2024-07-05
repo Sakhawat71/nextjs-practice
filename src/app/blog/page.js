@@ -1,9 +1,11 @@
-import React from 'react';
 
 const Blog = () => {
+
+    throw new Error ()
+
     return (
         <div>
-          <h1>Blog Posts</h1>  
+            <h1>Blog Posts</h1>
         </div>
     );
 };
