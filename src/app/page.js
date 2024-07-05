@@ -33,6 +33,9 @@ const HomePage = () => {
                     <li>
                         <Link href="/contactus">Contact Us</Link>
                     </li>
+                    <li>
+                        <Link href="/album">Album</Link>
+                    </li>
 
 
                 </ul>
