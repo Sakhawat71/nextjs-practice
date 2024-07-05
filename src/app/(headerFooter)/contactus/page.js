@@ -1,3 +1,7 @@
+export const metadata = {
+    title : 'Next.js | Contact Us',
+    description : 'this is Contact Us page for my next.js app'
+}
 
 const ContactUs = () => {
     return (

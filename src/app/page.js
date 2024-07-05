@@ -1,6 +1,11 @@
 import Link from 'next/link';
 import React from 'react';
 
+export const metadata = {
+    title : 'Next.js | Home',
+    description : 'this is home page for my next.js app'
+}
+
 const HomePage = () => {
 
     return (

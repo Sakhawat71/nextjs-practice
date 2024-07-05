@@ -1,5 +1,10 @@
 import React from 'react';
 
+export const metadata = {
+    title : 'Next.js | Next',
+    description : 'this is Next page for my next.js app'
+}
+
 const Next = () => {
     return (
         <div>

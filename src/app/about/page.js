@@ -1,5 +1,8 @@
 
-import React from 'react';
+export const metadata = {
+    title : 'Next.js | About',
+    description : 'this is About page for my next.js app'
+}
 
 const About = () => {
 

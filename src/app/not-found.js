@@ -1,6 +1,11 @@
 import Link from 'next/link';
 import React from 'react';
 
+export const metadata = {
+    title : 'Next.js | 404',
+    description : 'this is 404 page for my next.js app'
+}
+
 const NotFound = () => {
     return (
         <div className='flex mx-auto justify-center min-h-screen items-center'>

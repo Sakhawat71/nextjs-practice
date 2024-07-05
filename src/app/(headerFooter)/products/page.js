@@ -1,3 +1,9 @@
+export const metadata = {
+    title : 'Next.js | Products',
+    description : 'this is Products page for my next.js app'
+}
+
+
 const ProductsPage = () => {
     return (
         <div className="lg:h-96">

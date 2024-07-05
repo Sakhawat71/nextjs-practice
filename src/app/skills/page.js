@@ -1,6 +1,12 @@
 import Link from 'next/link';
 import React from 'react';
 
+export const metadata = {
+    title : 'Next.js | Skills',
+    description : 'this is Skills page for my next.js app'
+}
+
+
 const Skills = () => {
     return (
         <div className='flex items-start justify-center mx-auto'>

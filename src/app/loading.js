@@ -1,4 +1,7 @@
-
+export const metadata = {
+    title : 'Next.js | Loading',
+    description : 'this is Loading page for my next.js app'
+}
 
 const LoadingPage = () => {
 

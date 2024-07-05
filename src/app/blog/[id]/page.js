@@ -1,4 +1,9 @@
 
+export const metadata = {
+    title : 'Next.js | blog',
+    description : 'this is blog page for my next.js app'
+}
+
 const DynamicPost = ({ params, searchParams }) => {
 
     console.log(params.id);

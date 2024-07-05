@@ -1,7 +1,13 @@
 
+export const metadata = {
+    title : 'Next.js | Blog',
+    description : 'this is Blog page for my next.js app'
+}
+
+
 const Blog = () => {
 
-    throw new Error ()
+    // throw new Error ()
 
     return (
         <div>
